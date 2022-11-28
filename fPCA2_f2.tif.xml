@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20221020</CreaDate><CreaTime>15530000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20221020" Time="155300">ExtractByMask F:\01自然保护地\simulation3km\data\fPCA2_f2.tif mam1 F:\01自然保护地\simulation3km\Test_after_recode\fPCA2_f2.tif</Process></lineage></DataProperties></Esri></metadata>
